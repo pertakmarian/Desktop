@@ -1,0 +1,25 @@
+body {
+    margin: 0;''
+}
+
+.target{
+    background:silver;
+
+    width: 400px;
+    overflow: auto;
+    height: 2000px;
+    box-sizing: border-box;
+    padding:10px 20px 30px 40px;
+     border: 10px solid indianred;
+    border-radius: 10px;
+
+    margin: 100px auto;
+    box-shadow: black 10px 10px 10px 10px;
+    transition: 3s;
+    border-bottom-left-radius: 100px;
+    border-top-left-radius: 100px;
+}
+.target:hover {
+    height: 400px;
+    transition: 300ms;
+}

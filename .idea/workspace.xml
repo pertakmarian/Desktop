@@ -1,23 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="63e59af0-daaf-4d4e-b140-eec9ea5106b7" name="Changes" comment="dec 2021">
-      <change afterPath="$PROJECT_DIR$/html/class work/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/class work/.idea/klas vork.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/class work/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/class work/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/class work/lesson1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/home work/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Снимок экрана 2022-01-15 в 15.08.54.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/курси/html/class work/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/курси/html/class work/.idea/klas vork.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/курси/html/class work/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/курси/html/class work/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/курси/html/class work/Bart_simpson.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/курси/html/class work/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/курси/html/class work/lesson1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/курси/html/class work/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/курси/html/class work/test.html" beforeDir="false" />
+    <list default="true" id="63e59af0-daaf-4d4e-b140-eec9ea5106b7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,6 +78,8 @@
       <workItem from="1642250007336" duration="18000" />
       <workItem from="1642250236291" duration="1440000" />
       <workItem from="1642251997354" duration="204000" />
+      <workItem from="1642252382508" duration="335000" />
+      <workItem from="1642252835131" duration="204000" />
     </task>
     <task id="LOCAL-00001" summary="dec 2021">
       <created>1642249203598</created>
@@ -136,7 +123,21 @@
       <option name="project" value="LOCAL" />
       <updated>1642252081595</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="dec 2021">
+      <created>1642252493429</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1642252493429</updated>
+    </task>
+    <task id="LOCAL-00008" summary="dec 2021">
+      <created>1642252508710</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1642252508710</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

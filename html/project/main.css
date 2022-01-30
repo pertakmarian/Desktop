@@ -1,0 +1,194 @@
+
+*{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+:root {
+  --black-color: #000;
+}
+.wrapper {
+    max-width: 1372px;
+    margin: auto;
+}
+.top_bar {
+    height: 83px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.nav_menu__item a {
+    font-size: 15px;
+    line-height: 16px;
+    color:var(--black-color);
+   padding: 30px;
+
+
+
+}
+.header_logo {
+    width: 94px;
+    height: 36px;
+    align-items: center;
+}
+.nav_menu{
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+
+}
+.btn:hover {box-shadow: -2px 3px 15px  rgba(0,0,0,0.75);
+    -webkit-box-shadow: -2px 3px 15px  rgba(0,0,0,0.75);
+    -moz-box-shadow: -2px 3px 15px  rgba(0,0,0,0.75);
+
+}
+.button {
+    display: flex;
+    align-items: center;
+    column-gap: 5px;
+}
+.btn {
+    width: 163px;
+    height: 54px;
+    background: black;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: box-shadow.35s;
+
+}
+.heder_wrap__content {
+    padding: 154px 0;
+    display: flex;
+}
+* {
+    box-sizing: border-box;
+}
+
+p {
+    font-size: 20px;
+    font-family: sans-serif;
+    color: #6439a9;
+}
+
+p {
+    font-size: 20px;
+    font-family: sans-serif;
+    color: #6439a9;
+}
+
+.container {
+    margin-top: -150px;
+    width: 600px;
+    height: 886px;
+    margin-left: 300px;
+
+background: #eeac08;
+
+}
+.image-stack {
+    margin: -80px;
+}
+.heder_wrap__content {
+    display:flex;
+    align-items: center;
+
+}
+.header_content__title{
+    margin-top: -300px;
+    height: 256px;
+    max-width: 436px;
+    align-items: center;
+    box-sizing: border-box;
+    font-size: 60px;
+    line-height: 64px;
+    letter-spacing: 0.6px;
+    margin-left: 147px;
+
+}
+.header_content__text {
+    margin-top: 20px;
+    align-items: center;
+    width: 435px;
+    height: 96px;
+    box-sizing: border-box;
+    margin-left: 147px;
+}
+
+.header_button_bottom {
+    margin: 147px;
+    margin-top: -490px;
+
+}
+
+.btn1 {
+    width: 164px;
+    height: 54px;
+    background: #eeac08;
+    border-radius: 5px;
+    border: solid 1px black;
+}
+.btn2 {
+    width: 164px;
+    height: 54px;
+    background: white;
+    border-radius: 5px;
+    border: solid 1px black;
+
+}
+.title_content {
+    width: 547px;
+    height: 96px;
+    display:  flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 447px;
+    margin-top: 400px;
+
+}
+.companies_imegs1 {
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 130px;
+    margin-top: 20px;
+    display: flex;
+}
+.imeges_bike {
+    height: 1376px;
+    width: 494px;
+    margin-top: 150px;
+}
+
+
+.header_content__txt {
+    height: 80px;
+    width: 600px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-left: 500px;
+    margin-top: -700px;
+
+}
+.imeges_sprig{
+    height: 911px;
+    width: 528px;
+    display: flex;
+    margin-left: 265px;
+}
+.btn_4 {
+    width: 164px;
+    height: 54px;
+    background: #eeac08;
+    border-radius: 5px;
+    border: solid 1px black;
+    margin-left: 638px;
+    margin-top: 0px;
+
+}
+

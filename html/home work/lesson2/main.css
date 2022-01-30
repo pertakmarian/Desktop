@@ -1,0 +1,63 @@
+body{
+    margin: 400px ;
+    background-color: #413f3f;
+
+}
+.target_A {height: 8px;
+    width: 200px;
+    overflow: hidden;
+    padding: 20px 20px 20px 20px;
+    margin: 50px;
+    border: solid 6px darkorange;
+  border-radius: 50px;
+color: darkorange;
+    text-align: center;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+.target_B{
+   height: 8px;
+    width: 200px;
+    overflow: hidden;
+    padding: 20px 20px 20px 20px;
+    margin: 50px;
+    border:solid 6px cyan ;
+    border-radius: 50px;
+    color: cyan;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.target_C {
+    height: 8px;
+    width: 200px;
+    overflow: hidden;
+    padding: 20px 20px 20px 20px;
+    margin: 50px;
+    border: solid 6px violet;
+    color: violet;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+}
+.target_D{
+    height: 8px;
+    width: 200px;
+    overflow: hidden;
+    padding: 20px 20px 20px 20px;
+    margin:50px;
+    border: solid 6px red;
+    color: red;
+    text-align: center;
+    align-items: center;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+
+}

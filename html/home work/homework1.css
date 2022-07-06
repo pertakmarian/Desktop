@@ -1,0 +1,23 @@
+p {
+    background: lawngreen;
+    color: white;
+}
+h2 {
+    background:  yellow;
+
+}
+h1 {
+    background: yellow;
+    font-size: 40px;
+}
+ul {
+    background: red;
+}
+img{
+    height: 350px;
+    width: 200px;
+}
+li {
+    color: darkblue;
+    font-size: 20px;
+}

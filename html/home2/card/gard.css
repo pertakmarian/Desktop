@@ -1,0 +1,28 @@
+.conteiner {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+
+.card {
+    width: 250px;
+    height: 300px;
+    border: 2px solid darkgrey;
+    text-align: center;
+
+}
+
+button {
+    height: 50px;
+    width: 170px;
+    background: none;
+}
+h3 {
+    margin-top: 50px;
+
+}
+p {
+ margin: 10px 10px 10px 10px;
+    color: darkgray;
+}

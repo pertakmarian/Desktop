@@ -1,0 +1,52 @@
+.conteiner {
+    background: lightgrey;
+    max-width: 700px;
+    min-height: 750px;
+    margin: auto;
+
+
+}
+
+.block1 {
+    height: 190px;
+    width: 650px;
+    background: blue;
+    margin: auto;
+
+    margin-bottom: 20px;
+    margin-top: 20px;
+
+}
+
+.block2 {
+    display: flex;
+justify-content: space-between;
+}
+
+.box {
+    height: 250px;
+    width: 180px;
+    background: cornflowerblue;
+    margin: auto;
+
+}
+
+.block3 {
+  height: 300px;
+    width:650px;
+    background: blue;
+margin:auto;
+    margin-top: 20px;
+}
+h2 {
+    text-align: center;
+margin-left: auto;
+    margin-top: auto;
+    color: white;
+padding-top: 100px;
+}
+p {
+    text-align: center;
+    color: white;
+    padding-top: 80px;
+}
